@@ -2,6 +2,7 @@
   "short_name": "mats",
   "name": "The Homepage of Mats Lundström",
   "display": "fullscreen",
+  "theme_color": "aliceblue",
   "icons": [
     {
       "src": "launcher-icon-1x.png",
