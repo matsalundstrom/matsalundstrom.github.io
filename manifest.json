@@ -3,6 +3,7 @@
   "name": "The Homepage of Mats Lundström",
   "display": "fullscreen",
   "theme_color": "aliceblue",
+  "background_color": "red",
   "icons": [
     {
       "src": "launcher-icon-1x.png",
