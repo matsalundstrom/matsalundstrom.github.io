@@ -1,7 +1,7 @@
 {
   "short_name": "matsalundstrom",
   "name": "The Homepage of Mats Lundström",
-  "display": "browser",
+  "display": "minimal-ui",
   "theme_color": "#db5945",
   "background_color": "red",
   "icons": [
