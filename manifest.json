@@ -6,19 +6,44 @@
   "background_color": "red",
   "icons": [
     {
-      "src": "images/homepage48.png",
+      "src": "images/ml-48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "images/homepage96.png",
+      "src": "images/ml-96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "images/homepage192.png",
+      "src": "images/ml-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "images/ml-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "images/ml-192.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "images/ml-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "images/ml-384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "images/ml-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "index.html?launcher=true"
